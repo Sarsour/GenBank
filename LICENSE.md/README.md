@@ -1,2 +1,0 @@
-# GenBank
-extraction scripts
